@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?usernameAryansingh0823&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryansingh0823&theme=tokyonight" alt="GitHub Streak" />
+  <img src=usernameAryansingh0823&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src=Aryansingh0823&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
